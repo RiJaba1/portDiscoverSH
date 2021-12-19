@@ -1,5 +1,9 @@
 # portDiscoverSH
 
+[Español](https://github.com/RiJaba1/portDiscoverSH#Espa%C3%B1ol)
+
+[English](https://github.com/RiJaba1/portDiscoverSH#English)
+
 # Español
 
 ## ¿Para qué sirve esta utilidad?
